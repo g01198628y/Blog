@@ -1,13 +1,12 @@
 # Blog
-describe
+A Blog's message board can add,submit,delete and show the posts.
 
-gif
+![alt text](https://github.com/g01198628y/Blog/blob/master/screenshot.gif)
 
-1.
-2.
-3.
-4.
-5.
+1.React Router
+2.Redux Form
+3.POST API
+4.lodash
 
 
 ### Getting Started
